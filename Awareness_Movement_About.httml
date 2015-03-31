@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About The Awareness Movement</title>
+	<link rel="stylesheet" type="text/css" href="Awareness_Movement_About.css">
+</head>
+<body>
+	<article>
+		<header>
+			<h2>What is</h2>
+			<h1>The Awareness Movement?</h1>
+			<section><i>The Awareness Movement is a place to view positive, inspiring and motivating content to help all of us live our best lives. Wake up and be aware! Feel free to follow us on Instagram and Twitter.</i></section>
+			<section2><i><b>Mr. Someone Example, a former Sports Industry leader, is the founder of TAM. Passionate about seeing others succeed, MSE and TAM are here for you.</i></b></section2>
+	</article>
+<div class="MainContainer">	
+</div>
+	<ul id="navigation">
+		<ul>
+			<li>
+				<a href="http://www.facebook.com" target="blank" title="Facebook"> <img src="images/FB-f-Logo__blue_57.png" style="width:25px;height:25px;"></a>
+				<a href="http://www.twitter.com" target="blank" title="Twitter"> <img src="images/PNG/twitter.png" style="width:25px;height:25px;"></a>
+				<a href="http://www.instagram.com" target="blank" title="Instagram"> <img src="images/PNG/instagram.png" style="width:25px;height:25px;"></a>
+				<a href="index_page.html">Home</a>
+				<a href="music_page.html">Music</a>
+				<a href="quotes_page.html">Quotes</a>
+				<a href="contact_page.html">Contact</a>
+			</li>
+		</ul>
+	</nav>
+</body>
+</html>
