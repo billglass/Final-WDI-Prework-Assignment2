@@ -1,0 +1,66 @@
+html, body {
+    height: 100%;
+}
+
+.MainContainer {
+    width: 100%;
+}
+.MenuContainer {
+    height: 100%;
+    bottom: 0;
+}
+
+ul#navigation {
+    position: absolute;  
+    text-align: center; 
+    bottom: 0px;
+    width: 100%;
+    padding: 0px;
+}
+ul#navigation li {
+    display: inline;
+    list-style: none;
+    font-size: 12pt;
+    margin: 4px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(images/Nature.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    opacity: 1.0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36pt;
+    color: #FF5050;
+    -webkit-text-stroke: 1.5px black;
+    display: block;
+    margin: 50px;
+    padding: 0 auto;
+}
+
+h3 {
+    text-align: center;
+    font-size: 24pt;
+    color: #FF5050;
+    -webkit-text-stroke: .90px black;
+    display: block;
+    margin: 25px;
+    padding: 0 auto;
+}
+
+.form-action {
+    display: block;
+    text-align: center;
+    font-size: 16pt;
+    color: #FF3300;
+     -webkit-text-stroke: .7px black;
+    width: 100%;
+    padding: 20px;
+    border: 100px;
+
+}
